@@ -1,10 +1,3 @@
-//
-//  TweetCellTableViewCell.swift
-//  Twitter
-//
-//  Created by Nguyen, Khang on 3/11/22.
-//  Copyright © 2022 Dan. All rights reserved.
-//
 
 import UIKit
 
