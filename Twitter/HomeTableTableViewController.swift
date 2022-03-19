@@ -1,10 +1,3 @@
-//
-//  HomeTableTableViewController.swift
-//  Twitter
-//
-//  Created by Nguyen, Khang on 3/10/22.
-//  Copyright © 2022 Dan. All rights reserved.
-//
 
 import UIKit
 
