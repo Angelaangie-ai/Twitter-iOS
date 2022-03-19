@@ -6,7 +6,7 @@
 
 This is a basic twitter app to view, compose, favorite, and retweet tweets.
 
-Time spent: **X** hours spent in total
+Time spent: **4** hours spent in total
 
 ## User Stories
 
@@ -26,11 +26,11 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://github.com/khangnguyen211195/CodePath-Unit-3-Twitter/blob/main/demo_2.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 
 
-Time spent: **4** hours spent in total
+Time spent: **7** hours spent in total
 
 ## User Stories
 
@@ -51,5 +51,5 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://github.com/khangnguyen211195/CodePath-Unit-3-Twitter/blob/main/Assignment2.gif' title='Video Walkthrough' width='200' alt='Video Walkthrough' />
+<img src='' title='Video Walkthrough' width='200' alt='Video Walkthrough' />
 
